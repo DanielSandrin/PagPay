@@ -1,5 +1,4 @@
-/* form */
-form {
+form form {
   max-width: 36rem;
   display: grid;
   gap: 1.6rem;
@@ -61,6 +60,7 @@ form button {
   color: #121212;
 
   transition: filter 0.3s;
+  width: 100%;
 }
 
 form button:hover {
